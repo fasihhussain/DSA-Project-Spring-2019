@@ -1,4 +1,4 @@
-# Rubik's Cube Solver
+# Rubik's Cube Solver (Spring 2019)
 
 ## Team Members
 1. Fasih Hussain
