@@ -1,5 +1,7 @@
 # Rubik's Cube Solver (Spring 2019)
 
+This project was a part of the course Data Structures & Algorithms (CS 102) offered by Dr. Saleha Raza.
+
 ## Team Members
 1. Fasih Hussain
 2. Ali Haider Rizvi
